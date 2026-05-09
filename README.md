@@ -37,7 +37,7 @@
 ### Generation History
 *All previously generated cover letters stored and accessible anytime.*
 
-![History Screen](screenshots/history-screen.png)
+<img width="1308" height="576" alt="Image" src="https://github.com/user-attachments/assets/eec0077b-691c-491a-b034-9507d45029db" />
 
 ### System Architecture
 *Complete serverless architecture on AWS.*
