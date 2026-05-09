@@ -29,11 +29,6 @@
 
 <img width="1376" height="804" alt="Image" src="https://github.com/user-attachments/assets/1a6093c5-69b3-4ee7-b405-fc274b1adac4" />
 
-### Generation with Key Matches
-*Core focus areas automatically identified between your resume and the job description.*
-
-![Key Matches](screenshots/key-matches.png)
-
 ### Generation History
 *All previously generated cover letters stored and accessible anytime.*
 
@@ -42,7 +37,7 @@
 ### System Architecture
 *Complete serverless architecture on AWS.*
 
-![Architecture Diagram](screenshots/architecture.png)
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/f054ae2a-9e8a-4ba3-b059-0c25b2ad362b" />
 
 </div>
 
