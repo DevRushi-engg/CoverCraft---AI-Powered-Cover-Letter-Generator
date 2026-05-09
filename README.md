@@ -22,12 +22,12 @@
 ### Input Screen
 *Paste your job description and resume, select a tone, and generate.*
 
-[![Input Screen] <img width="1374" height="893" alt="Image" src="https://github.com/user-attachments/assets/1ae4eb21-e26c-4dac-8a8b-a41a01abd058" />]
+<img width="1374" height="893" alt="Image" src="https://github.com/user-attachments/assets/1ae4eb21-e26c-4dac-8a8b-a41a01abd058" />
 
 ### Output Screen — AI Generated Cover Letter
 *AI-generated cover letter with key skill matches and typewriter animation.*
 
-![Output Screen](screenshots/output-screen.png)
+<img width="1376" height="804" alt="Image" src="https://github.com/user-attachments/assets/1a6093c5-69b3-4ee7-b405-fc274b1adac4" />
 
 ### Generation with Key Matches
 *Core focus areas automatically identified between your resume and the job description.*
