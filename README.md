@@ -22,7 +22,7 @@
 ### Input Screen
 *Paste your job description and resume, select a tone, and generate.*
 
-![Input Screen]((https://github-production-user-asset-6210df.s3.amazonaws.com/84222209/589994196-1ae4eb21-e26c-4dac-8a8b-a41a01abd058.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260509%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260509T145328Z&X-Amz-Expires=300&X-Amz-Signature=f41c9e234aa0f9d47095972a87a2ae28fdde3aca769f568deaabfbe30eff9ea7&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng))
+[![Input Screen](https://github-production-user-asset-6210df.s3.amazonaws.com/84222209/589994196-1ae4eb21-e26c-4dac-8a8b-a41a01abd058.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20260509%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260509T145328Z&X-Amz-Expires=300&X-Amz-Signature=f41c9e234aa0f9d47095972a87a2ae28fdde3aca769f568deaabfbe30eff9ea7&X-Amz-SignedHeaders=host&response-content-type=image%2Fpng)]
 
 ### Output Screen — AI Generated Cover Letter
 *AI-generated cover letter with key skill matches and typewriter animation.*
