@@ -23,3 +23,10 @@ dist-ssr
 *.sln
 *.sw
 *.env
+
+# Backend build artifacts
+backend/.aws-sam/
+backend/samconfig.toml
+
+# Package lock (optional, large file)
+package-lock.json
