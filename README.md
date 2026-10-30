@@ -16,10 +16,9 @@
 ---
 ## Demo Video
 
-<video controls width="800">
-  <source src="https://github.com/user-attachments/assets/64b1fe28-c413-4204-98bf-4b671d3afaab" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+## Demo Video
+
+https://github.com/user-attachments/assets/81957eef-2d1c-45e3-aeac-c5b7fe9343ff
 
 
 ## 📸 Screenshots
