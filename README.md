@@ -16,8 +16,6 @@
 ---
 ## Demo Video
 
-## Demo Video
-
 https://github.com/user-attachments/assets/81957eef-2d1c-45e3-aeac-c5b7fe9343ff
 
 
