@@ -16,7 +16,7 @@
 ---
 ## Demo Video
 
-[Watch the demo video](./assets/demo.mp4)
+[Watch the demo video](./assests/demo.mp4)
 
 
 ## 📸 Screenshots
