@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✏️ CoverCraft — AI-Powered Cover Letter Generator
+# CoverCraft — AI-Powered Cover Letter Generator
 
 ### Generate perfectly tailored cover letters in seconds using Generative AI
 
@@ -14,6 +14,10 @@
 </div>
 
 ---
+## Demo Video
+
+[Watch the demo video](./assets/demo.mp4)
+
 
 ## 📸 Screenshots
 
