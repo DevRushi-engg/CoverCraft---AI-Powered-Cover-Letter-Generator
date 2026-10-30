@@ -17,7 +17,7 @@
 ## Demo Video
 
 <video controls width="800">
-  <source src="[https://raw.githubusercontent.com/DevRushi-engg/CoverCraft---AI-Powered-Cover-Letter-Generator/main/assests/demo.mp4](https://github.com/user-attachments/assets/64b1fe28-c413-4204-98bf-4b671d3afaab)" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/64b1fe28-c413-4204-98bf-4b671d3afaab" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
